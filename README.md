@@ -1,1 +1,2 @@
 # System-Simulation
+Monte Carlo approach to analysis was developed in the 1940's, it is a computer based analytical method which employs statistical sampling techniques for obtaining a probabilistic approximation to the solution of a mathematical equation or model by utilizing sequences of random numbers as inputs into a model which yields results that are indications of the performance of the developed model.
